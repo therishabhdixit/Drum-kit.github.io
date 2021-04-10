@@ -1,4 +1,4 @@
 # Drum-kit.github.io
-Built in JS
+Developed by using HTML, CSS, JavaScript
 
 https://therishabhdixit.github.io/Drum-kit.github.io/
